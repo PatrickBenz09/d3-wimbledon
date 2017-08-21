@@ -6,6 +6,6 @@ Simple Data-Driven Document app about football statistic
 
 ``` bash
 
-live-server
+$ live-server
 
 ```
